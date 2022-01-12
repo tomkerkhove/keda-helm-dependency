@@ -1,0 +1,6 @@
+dependencies:
+- name: keda
+  repository: file://../keda
+  version: 2.5.1
+digest: sha256:f9e8a288c18f901f8f786cde61c63d1162454f6fbc0d7c4db02955c6ccc3b4fc
+generated: "2022-01-12T13:58:21.3605138+01:00"
